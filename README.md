@@ -2,8 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Nickolas Davi, 19 anos, é estudante de Análise e Desenvolvimento de Sistemas na FIAP (Campus Aclimação). Atua na empresa JGA Teclados de Membrana, onde desenvolveu um site de vendas aplicando seus conhecimentos em tecnologia, iniciativa que o levou a atuar também como proprietário autônomo da Nck Membrana Comercial. Iniciou sua trajetória digital aos 12 anos com cursos de Web Design e mantém interesse contínuo em Cybersecurity e Desenvolvimento de Software, com o objetivo de se tornar especialista em segurança cibernética e programador.
+Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FIAP (Campus Aclimação). Atuo na empresa JGA Teclados de Membrana, onde desenvolvi um site de vendas aplicando meus conhecimentos em tecnologia. Essa iniciativa me levou a atuar também como proprietário autônomo da Nck Membrana Comercial.
 
+Iniciei minha trajetória no mundo digital aos 12 anos, com cursos de Web Design, e desde então mantenho interesse contínuo em Cybersecurity e Desenvolvimento de Software. Meu objetivo é me tornar especialista em segurança cibernética e atuar como programador, unindo prática, inovação e aprendizado constante.
 
 
 
