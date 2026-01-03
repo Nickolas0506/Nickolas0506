@@ -95,6 +95,24 @@ Nickolas Davi, 19 anos, é estudante de Análise e Desenvolvimento de Sistemas n
 
 <br/>
 <br/>
+<div> 
+  <a href="https://instagram.com/Nickk.zy" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://discord.com/users/Nickk.zy" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a> 
+
+  <a href="mailto:nickolassouza0506@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/nickolas-davi-17824b355/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
+
 
 
 
